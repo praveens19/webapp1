@@ -11,6 +11,10 @@
         <div>
             This is default home page
         </div>
+        <asp:TextBox ID="txtbox1" runat="server" Width="186px"></asp:TextBox>
+        <p>
+            <asp:Button ID="Button1" runat="server" Height="54px" Text="click fr welcome msg" Width="202px" />
+        </p>
     </form>
 </body>
 </html>
